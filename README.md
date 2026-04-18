@@ -270,7 +270,7 @@ Training          HuggingFace Trainer
 MSc Computer Science — University of Birmingham, UK
 
 [![GitHub](https://img.shields.io/badge/GitHub-H2908-181717?style=flat&logo=github)](https://github.com/H2908)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--taneja-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/harshit-taneja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--taneja-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/harshit-taneja-921821223)
 [![Email](https://img.shields.io/badge/Email-tanejaharshit79@gmail.com-EA4335?style=flat&logo=gmail)](mailto:tanejaharshit79@gmail.com)
 
 ---
