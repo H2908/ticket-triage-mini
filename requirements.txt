@@ -1,0 +1,13 @@
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+pydantic
+streamlit
+httpx
